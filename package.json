@@ -10,7 +10,6 @@
     "start": "next start",
     "export": "yarn run build && next export && mv out _static"
   },
-
   "engines": {
     "node": "14.X"
   },
@@ -25,7 +24,7 @@
     "react-slick": "^0.29.0"
   },
   "devDependencies": {
-    "@types/node": "^18.0.6",
+    "@types/node": "^18.19.76",
     "@types/react": "^18.0.15",
     "autoprefixer": "^10.4.7",
     "concurrently": "^7.3.0",
